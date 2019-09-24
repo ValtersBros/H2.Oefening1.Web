@@ -22,4 +22,3 @@ C:\Users\JackL\source\repos\Programmeren 3\H2.Oefening1.Web\H2.Oefening1.Web\obj
 C:\Users\JackL\source\repos\Programmeren 3\H2.Oefening1.Web\H2.Oefening1.Web\obj\Debug\netcoreapp2.2\H2.Oefening1.Web.dll
 C:\Users\JackL\source\repos\Programmeren 3\H2.Oefening1.Web\H2.Oefening1.Web\obj\Debug\netcoreapp2.2\H2.Oefening1.Web.pdb
 C:\Users\JackL\source\repos\Programmeren 3\H2.Oefening1.Web\H2.Oefening1.Web\obj\Debug\netcoreapp2.2\H2.Oefening1.Web.csproj.CopyComplete
-C:\Users\JackL\source\repos\Programmeren 3\H2.Oefening1.Web\H2.Oefening1.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\WhatsMyName.g.cshtml.cs

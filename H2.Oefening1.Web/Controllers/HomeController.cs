@@ -10,12 +10,13 @@ namespace H2.Oefening1.Web.Controllers
     {
        
         public IActionResult Index()
-        {
-            return View();
+        {   
+            return Content("<ul>test<ul/>");
         }
 
         public IActionResult WhatsMyName()
         {
+            //https://localhost:44349/Home/WhatsMyName
             return Content("Valters Lukass Brosinskis - " + DateTime.Today);
             
         }
